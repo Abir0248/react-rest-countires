@@ -1,0 +1,13 @@
+.countries {
+  margin: 0 10%;
+}
+
+#top-text {
+  margin-top: 0;
+  padding: 25px;
+}
+.countries-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}

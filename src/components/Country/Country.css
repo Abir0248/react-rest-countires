@@ -1,0 +1,9 @@
+.Country {
+  margin: 0 5%;
+  margin-bottom: 5%;
+  background-color: antiquewhite;
+  padding: 10px;
+}
+.Country img {
+  width: 90%;
+}
